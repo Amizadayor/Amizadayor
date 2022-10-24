@@ -13,4 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amizadayor&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amizadayor&icon=2&color=6)](https://visitcount.itsvg.in)
