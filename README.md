@@ -1,4 +1,4 @@
-# 💫 Hi there:
+# Hi there
 🔭 I’m currently studying Information and Comunication Technologies.
 
 
