@@ -29,3 +29,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
+
+#
+![TL](https://scontent.fpbc1-2.fna.fbcdn.net/v/t39.30808-6/232691510_112879877753954_6567424751943729626_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=2rStiZudF8wAX8tYIpt&_nc_ht=scontent.fpbc1-2.fna&oh=00_AT_qYiwsTVwEWtitGEi4MrtU226V7HPdgGwQePAiVilStg&oe=635B16BC)
