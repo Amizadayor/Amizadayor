@@ -1,10 +1,12 @@
 <div align="center" width="50">
-Hi there
+ 
+<h2> Hi there
 🔭 I’m currently studying Information and Comunication Technologies.
+ </h2>
 
 <div align="center">
  
-<b>
+<br>
 <a href="https://instagram.com/thirteenlines_oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://facebook.com/thirteenlines.or" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
