@@ -1,8 +1,10 @@
 <div align="center" width="50">
  
-<h2> Hi there
-🔭 I’m currently studying Information and Comunication Technologies.
- </h2>
+<h1> Hi there</h1>
+ <br>
+<h2>
+ 🔭 I’m currently studying Information and Comunication Technologies
+</h2>
 
 <div align="center">
  
