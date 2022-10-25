@@ -9,7 +9,7 @@
  
 <a href="https://instagram.com/thirteenlines_oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://facebook.com/thirteenlines.or" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://twitter.com/Amizaday_OR" target="_blank"><https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white></a>
+<a href="https://twitter.com/Amizaday_OR" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 
 #
 ![TL](https://scontent.fpbc1-2.fna.fbcdn.net/v/t39.30808-6/232691510_112879877753954_6567424751943729626_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=2rStiZudF8wAX8tYIpt&_nc_ht=scontent.fpbc1-2.fna&oh=00_AT_qYiwsTVwEWtitGEi4MrtU226V7HPdgGwQePAiVilStg&oe=635B16BC)
