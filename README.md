@@ -10,7 +10,7 @@
 I currently study Information and Communication Technologies at the <a href="https://www.salinacruz.tecnm.mx/" target="_blank">Instituto Tecnológico de Salina Cruz </a> and work as a web developer at <a href="https://instagram.com/thirteenlines_oficial" target="_blank">Thirteen Lines</a>.
 </div>
 
-<div align="center">
+<div align="center" width="50">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amizadayor&theme=midnight_purple" alt="Profile">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amizadayor&theme=midnight_purple" alt="Top Languages by Repo">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amizadayor&theme=midnight_purple" alt="Top Languages by Commit">
@@ -20,7 +20,7 @@ I currently study Information and Communication Technologies at the <a href="htt
 
 #
 
-<div align="center">
+<div align="center" width="50">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
