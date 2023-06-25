@@ -1,10 +1,8 @@
 <div align="center" width="50">
-<h1> Hi there</h1>
+    <h1> Hi, my name is Amizaday </h1>
 </div>
-
-
 <div align="center">
-I currently study Information and Communication Technologies at the <a href="https://www.salinacruz.tecnm.mx/" target="_blank">Instituto Tecnológico de Salina Cruz </a> and work as a web developer at <a href="https://instagram.com/thirteenlines_oficial" target="_blank">Thirteen Lines</a>.
+    I currently study Information and Communication Technologies at the <a href="https://www.salinacruz.tecnm.mx/" target="_blank">Instituto Tecnológico de Salina Cruz </a> and work as a web developer at <a href="https://instagram.com/thirteenlines_oficial" target="_blank">Thirteen Lines</a>.
 
 <a href="https://instagram.com/thirteenlines_oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://facebook.com/thirteenlines.or" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -22,7 +20,6 @@ I currently study Information and Communication Technologies at the <a href="htt
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amizadayor&theme=dark&utcOffset=8" alt="Commits (UTC +8.00)">
 </div>
-
 
 #
 
