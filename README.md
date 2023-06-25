@@ -2,13 +2,14 @@
 <h1> Hi there</h1>
 </div>
 
+
 <div align="center">
- I’m currently studying Information and Comunication Technologies at the <a href="https://www.salinacruz.tecnm.mx/" target="_blank">Technological Institute of Salina Cruz</a> and I'm a web developer.
+ I’m currently studying Information and Comunication Technologies at the <a href="https://www.salinacruz.tecnm.mx/" target="_blank">Salina Cruz Institute of Technology</a> and working as a web developer at <a href="https://instagram.com/thirteenlines_oficial" target="_blank">Thirteen Lines</a>.
+
 <a href="https://instagram.com/thirteenlines_oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 <a href="https://facebook.com/thirteenlines.or" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
-<a href="https://twitter.com/Amizaday_OR" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/Amizaday_OR" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://mx.linkedin.com/in/juan-amizaday-ojeda-rosales" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amizadayor&theme=midnight_purple" alt="Profile">
@@ -21,6 +22,7 @@
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amizadayor&theme=dark&utcOffset=8" alt="Commits (UTC +8.00)">
 </div>
+
 
 #
 
