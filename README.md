@@ -5,9 +5,13 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amizadayor&theme=midnight_purple" alt="Profile">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amizadayor&theme=buefy" alt="Top Languages by Repo">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amizadayor&theme=onedark" alt="Top Languages by Commit">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amizadayor&theme=onedark" alt="Stats">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amizadayor&theme=midnight_purple" alt="Top Languages by Repo">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amizadayor&theme=midnight_purple" alt="Top Languages by Commit">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amizadayor&theme=midnight_purple" alt="Stats">
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amizadayor&theme=dark&utcOffset=8" alt="Commits (UTC +8.00)">
 </div>
 
