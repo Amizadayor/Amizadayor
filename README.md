@@ -4,7 +4,7 @@
 
 
 <div align="center">
- I’m currently studying Information and Comunication Technologies at the <a href="https://www.salinacruz.tecnm.mx/" target="_blank">Salina Cruz Institute of Technology</a> and working as a web developer at <a href="https://instagram.com/thirteenlines_oficial" target="_blank">Thirteen Lines</a>.
+I currently study Information and Communication Technologies at the<a href="https://www.salinacruz.tecnm.mx/" target="_blank">Instituto Tecnológico de Salina Cruz </a> and work as a web developer at Thirteen Lines.<a href="https://instagram.com/thirteenlines_oficial" target="_blank">Thirteen Lines</a>.
 
 <a href="https://instagram.com/thirteenlines_oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://facebook.com/thirteenlines.or" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
