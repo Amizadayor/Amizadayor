@@ -1,16 +1,24 @@
-<div align="center" width="50">
-<h1> Hi, my name is Amizaday </h1>
-<a href="https://instagram.com/thirteenlines_oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://facebook.com/thirteenlines.or" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://twitter.com/Amizaday_OR" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://mx.linkedin.com/in/juan-amizaday-ojeda-rosales" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+<div align="center">
+  <h1> Hi, my name is Amizaday </h1>
+  <a href="https://instagram.com/thirteenlines_oficial" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://facebook.com/thirteenlines.or" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/Amizaday_OR" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://mx.linkedin.com/in/juan-amizaday-ojeda-rosales" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 <div align="center">
 I currently study Information and Communication Technologies at the <a href="https://www.salinacruz.tecnm.mx/" target="_blank">Instituto Tecnológico de Salina Cruz </a> and work as a web developer at <a href="https://instagram.com/thirteenlines_oficial" target="_blank">Thirteen Lines</a>.
 </div>
 
-<div align="center" width="50">
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amizadayor&theme=midnight_purple" alt="Profile">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amizadayor&theme=midnight_purple" alt="Top Languages by Repo">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amizadayor&theme=midnight_purple" alt="Top Languages by Commit">
@@ -20,7 +28,7 @@ I currently study Information and Communication Technologies at the <a href="htt
 
 #
 
-<div align="center" width="50">
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
