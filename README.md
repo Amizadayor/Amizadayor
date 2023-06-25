@@ -3,17 +3,12 @@
 </div>
 
 <div align="center">
-<div>
  I’m currently studying Information and Comunication Technologies
-</div>
 
 <a href="https://instagram.com/thirteenlines_oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 <a href="https://facebook.com/thirteenlines.or" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
 <a href="https://twitter.com/Amizaday_OR" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
 </a>
-</div>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amizadayor&theme=midnight_purple" alt="Profile">
